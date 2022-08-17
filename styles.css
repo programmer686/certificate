@@ -1,0 +1,17 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+.certificate--container {
+    padding: 5% 0%;
+    background: rgb(8, 17, 34);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.certificate {
+    width: 80%;
+    box-shadow: -2px 5px 5px black;
+}
